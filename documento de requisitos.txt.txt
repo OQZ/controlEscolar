@@ -25,3 +25,5 @@ CU002: Imprimir cardex
 
 CU003: Cargar materia
 __________________________________________________________
+cONCLUCIONES
+ESTE SISTEMA SIVE PARA GESTIONAR LOS SERVICIOS DE DEPARTAMENTO DE CONTROL ESCOLAR
