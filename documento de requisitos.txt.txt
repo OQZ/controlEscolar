@@ -8,3 +8,10 @@ RF002: El sistema imprimir reporte de calificaciones
 
 RF003: El sistema debe permitir la carga de materias
 ___________________________________________________
+Requitos no funcionales
+
+RNF001: El sistema no debere marcar error al momento de realizar la operacion
+
+RNF002: El sistema no debere marcar error al momento de realizar la operacion
+
+RNF003: El sistema no debere marcar error al momento de realizar la operacion
