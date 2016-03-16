@@ -15,3 +15,13 @@ RNF001: El sistema no debere marcar error al momento de realizar la operacion
 RNF002: El sistema no debere marcar error al momento de realizar la operacion
 
 RNF003: El sistema no debere marcar error al momento de realizar la operacion
+_______________________________________________________
+
+Listas de casos de uso:
+
+CU001: Registrar alumnos
+
+CU002: Imprimir cardex 
+
+CU003: Cargar materia
+__________________________________________________________
