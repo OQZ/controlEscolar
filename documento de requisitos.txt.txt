@@ -27,3 +27,7 @@ CU003: Cargar materia
 __________________________________________________________
 cONCLUCIONES
 ESTE SISTEMA SIVE PARA GESTIONAR LOS SERVICIOS DE DEPARTAMENTO DE CONTROL ESCOLAR
+____________________________________________________________
+Funcionamiento 
+
+El sistema debera ser capaz de realizar estas operaciones con varios usuarios conectados ala vez

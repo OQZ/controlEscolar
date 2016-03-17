@@ -1,0 +1,29 @@
+commit fd8e8a529332ebfc0932bc60d65bf87111b67de0
+Author: gerardo <luisgerardo1550.ga@gmail.com>
+Date:   Wed Mar 16 10:28:13 2016 -0700
+
+    concluciones
+
+commit 347eb3c2a428f38c88c58390cefc97ad18174a4e
+Author: gerardo <luisgerardo1550.ga@gmail.com>
+Date:   Wed Mar 16 10:26:35 2016 -0700
+
+    apartado de caso de usos
+
+commit 435444dd4fa49dc0543edbcbcda4f64eb96bc0a7
+Author: gerardo <luisgerardo1550.ga@gmail.com>
+Date:   Wed Mar 16 10:24:04 2016 -0700
+
+    requisitos no funcionales
+
+commit 031ff12fa2915044bee25880633f229714672e6b
+Author: gerardo <luisgerardo1550.ga@gmail.com>
+Date:   Wed Mar 16 10:17:10 2016 -0700
+
+    requisitos funcionales
+
+commit 9e27b36dc72ae95db420da7e623b018aac65dcd5
+Author: gerardo <luisgerardo1550.ga@gmail.com>
+Date:   Tue Mar 15 10:56:29 2016 -0700
+
+    Documento de requisitos
